@@ -11,7 +11,7 @@
 ### Image Dataset
 
 > 📁 **All benchmark images** are available in the shared Google Drive folder:  
-> _[Link not yet available — will be added once the folder is shared.](https://drive.google.com/drive/folders/14OubrayWplr4q6U6DTNwUk5Nlvmj4ITc?usp=sharing)_
+> _[Click Here](https://drive.google.com/drive/folders/14OubrayWplr4q6U6DTNwUk5Nlvmj4ITc?usp=sharing)_
 
 ### Distance Study Highlights (80° FOV)
 
