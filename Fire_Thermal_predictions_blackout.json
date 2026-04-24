@@ -1,0 +1,686 @@
+{
+  "Screenshot-2025-04-20-225434_aug_5_jpg.rf.8a94634b61cd2393f18b07b17d4f3584.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_11_jpg.rf.3a33c9bb9dad3fc71634f7104e6d915a.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_15_jpg.rf.f12c65789894cc91beb77288d9da45eb.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_8_jpg.rf.7e039757e3efc69046292befc52b2ec8.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_10_jpg.rf.5d09c9b3c22c02a77b8d14056f728429.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_png.rf.201b6e1d9196a5da51e7ed4195a9ee2b.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_3_jpg.rf.6609e5a290494c74bd78fd6ab5ebbee0.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_1_jpg.rf.1a6b6a4218e131bf5336e3d4f7786527.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-190244_png.rf.a2418ad5a9b33dbb4e0e5c7ce1ca1c6d.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": [
+          {
+            "x_min": 0.6351042310893535,
+            "y_min": 0.3163776933401823,
+            "x_max": 0.7555207689106465,
+            "y_max": 0.3730754316598177,
+            "conf": -1,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_11_jpg.rf.797dbdaceb620ba41b2ffd0affe60d9f.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_5_jpg.rf.586ee0d4e37240450a29f87b41395b82.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_18_jpg.rf.86dfd1ad4c3977ae0413b1af7bf1229d.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_16_jpg.rf.c5495c7f0865a3d734e7615101853398.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_12_jpg.rf.013794f0cb9bcdc3faa9aa0a6386954e.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_1_jpg.rf.6a16f6eec465badb3985691986edef28.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_10_jpg.rf.64594b4278b8c47db8fce8b6eba8293e.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_19_jpg.rf.f004c0844159bf1400d65404239ad77c.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194356_png.rf.66a9b824f5e636d66496c78b5cfc019b.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": [
+          {
+            "x_min": 0.29217653107643127,
+            "y_min": 0.46346768402308225,
+            "x_max": 0.9832140939235687,
+            "y_max": 0.49356356597691775,
+            "conf": -1,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.2824992699623108,
+            "y_min": 0.48592862152308225,
+            "x_max": 0.9967976050376892,
+            "y_max": 0.5160245034769178,
+            "conf": -1,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.2854289574623108,
+            "y_min": 0.42147549652308225,
+            "x_max": 0.9997272925376892,
+            "y_max": 0.45157137847691775,
+            "conf": -1,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_15_jpg.rf.83c0bbecf2e57f5d1185dee2dd9ba452.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194643_png.rf.346942c5bbc5dcb78f2684de4b54584a.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225312_png.rf.5a3e00d53541cb49690829895546e42f.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_14_jpg.rf.cf9b1d6e4ccccafa8b17551c0102c0e5.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_13_jpg.rf.16b42ee73507c9aeafbb1f3e7a4e4795.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_20_jpg.rf.59452b2bb86120ef87cfb03bb97c9835.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_png.rf.5f815ad1ad880c084420b78c2276d580.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194622_png.rf.122d441a1c74c284d0fd70cf13dcf905.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": [
+          {
+            "x_min": 0.4886582633666694,
+            "y_min": 0.529436311237514,
+            "x_max": 0.5406386116333306,
+            "y_max": 0.585798063762486,
+            "conf": -1,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.49268504746258257,
+            "y_min": 0.5005183923244476,
+            "x_max": 0.5444243275374174,
+            "y_max": 0.5561222326755524,
+            "conf": -1,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194622_png.rf.d035e007b578eb00b989b4b40e91ea81.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-190614_png.rf.c1553d1bc2156a9bfc4efacc9e82e3c7.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": [
+          {
+            "x_min": 0.47589136894792317,
+            "y_min": 0.48699795968830584,
+            "x_max": 0.5455930060520768,
+            "y_max": 0.5598770403116942,
+            "conf": -1,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194523_png.rf.508c950da10e6f785986a70151e4bc0f.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_12_jpg.rf.d2088fcd410df7a4613226ecc41356e1.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_17_jpg.rf.9500edc31107e571c968685aabc20259.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_22_jpg.rf.ecff8bef87f576a0457f627918ab90b1.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_aug_14_jpg.rf.ca25689b96da469778bf12086c6e4af3.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": [
+          {
+            "x_min": 0.9281178820133209,
+            "y_min": 0.6680114646628499,
+            "x_max": 0.9878977429866791,
+            "y_max": 0.7284729103371501,
+            "conf": -1,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.8295563510805368,
+            "y_min": 0.7588317771628499,
+            "x_max": 0.9009123989194632,
+            "y_max": 0.8192932228371501,
+            "conf": -1,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225226_png.rf.59378d9bbfd94d4639a08344ef7cdc37.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_13_jpg.rf.66a07f89b7b62d901c9398b3b6eea8b6.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194635_png.rf.d0ce9299fdc69acaa8cc4f9a29354822.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_15_jpg.rf.a1b42cab59a5e216fd2ec7067a040039.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-190639_png.rf.6e690ca4734e10f4620519d7d5dcfb55.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_4_jpg.rf.2feed068213c7a22b98a2f3939d3f380.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_14_jpg.rf.0f2be8d727236669bd614df1ce51d07e.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_4_jpg.rf.290b404425eb70ae6f0a370c43d9b0e8.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225434_png.rf.9d626f780cdcc0a361a99463aace0379.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194648_png.rf.4ae38bdb94cfdd54ee5eaef1cfff93fa.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": [
+          {
+            "x_min": 0.7988015334308147,
+            "y_min": 0.11093407172709703,
+            "x_max": 0.9414328415691853,
+            "y_max": 0.17031592827290296,
+            "conf": -1,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225455_aug_21_jpg.rf.98ede420750d6878106c888ac0286def.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-225529_aug_15_jpg.rf.af8cf87d80d82aad9ca99f10b2297065.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  },
+  "Screenshot-2025-04-20-194516_png.rf.8407b2c880ca35623aca43248e9bf538.jpg": {
+    "raw_data": [],
+    "tags": [
+      "fire",
+      "IR"
+    ],
+    "predictions": [
+      {
+        "class": "Red Hotspot",
+        "boxes": []
+      }
+    ]
+  }
+}

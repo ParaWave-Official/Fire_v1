@@ -1,0 +1,6042 @@
+{
+  "ck0kexd04j9w30a4628x0rzxi_jpeg_jpg.rf.337ffbf96cec0ca8275b9969ee5382bf.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.209375,
+            "y_min": 0.41250000000000003,
+            "x_max": 0.275,
+            "y_max": 0.59375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0kkhi2lb1b30721f7ltwn14_jpeg_jpg.rf.4e17f86b2f95911d46bd9908bab61c2d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3859375,
+            "y_min": 0.44335937499999994,
+            "x_max": 0.653125,
+            "y_max": 0.6519531249999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.3647145438194275,
+            "y_min": 0.4370597782731056,
+            "x_max": 0.6626292061805725,
+            "y_max": 0.6547370967268944,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rqjl29ibr20a46351u8ys5_jpeg_jpg.rf.5d3e927a1b29b6f9020b39bd2a635e0e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25625000000000003,
+            "y_min": 0.47929687499999996,
+            "x_max": 0.809375,
+            "y_max": 0.626953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.23957590714097024,
+            "y_min": 0.5398976211622357,
+            "x_max": 0.3522209678590298,
+            "y_max": 0.6046336288377643,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qdgpy2ksso0721wbiaedz7_jpeg_jpg.rf.b365771e7c32f90c9948c2f164cd2849.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.415625,
+            "y_min": 0.431640625,
+            "x_max": 0.4828125,
+            "y_max": 0.498046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.39742472164332865,
+            "y_min": 0.418066978007555,
+            "x_max": 0.49320027835667135,
+            "y_max": 0.511620521992445,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nculry62mq0944n824zvzk_jpeg_jpg.rf.bfbb4dee13252ffe97389eb6925708f7.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7765625,
+            "y_min": 0.50859375,
+            "x_max": 0.965625,
+            "y_max": 0.60859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7746322523057461,
+            "y_min": 0.550250229910016,
+            "x_max": 0.8484146226942539,
+            "y_max": 0.623577895089984,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u03onjuosl0701rhy18f7o_jpeg_jpg.rf.17faf9b599d70a2c8a6f67144217a09a.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4703125,
+            "y_min": 0.17070312499999998,
+            "x_max": 0.7875,
+            "y_max": 0.537109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4775526817142963,
+            "y_min": 0.467231757491827,
+            "x_max": 0.5693223182857037,
+            "y_max": 0.550346367508173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tt2h2btoz109449lxjh5hi_jpeg_jpg.rf.24070938abc9b2cfc2a2402863272d42.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.18125,
+            "y_min": 0.45195312499999996,
+            "x_max": 0.29375,
+            "y_max": 0.654296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.22071674421429635,
+            "y_min": 0.5751746869832277,
+            "x_max": 0.3124863807857037,
+            "y_max": 0.6728721880167723,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t7cczuqxtt07212nj5eznh_jpeg_jpg.rf.3ad73d04301f7a83d13f189194c3b5ac.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.66875,
+            "y_min": 0.404296875,
+            "x_max": 0.8484375,
+            "y_max": 0.501953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7439932711608708,
+            "y_min": 0.44402920968830584,
+            "x_max": 0.7989754788391292,
+            "y_max": 0.5169082903116942,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u0raa96fpd0a46z626vh9b_jpeg_jpg.rf.cf220172ec17b01966c2d4a7b29959a6.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4796875,
+            "y_min": 0.33515625000000004,
+            "x_max": 0.9078124999999999,
+            "y_max": 0.53515625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4772918219864368,
+            "y_min": 0.4501571650803089,
+            "x_max": 0.6125519280135632,
+            "y_max": 0.5498428349196911,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txrr4nswy40838d5s9tydp_jpeg_jpg.rf.a1166befe8d2311c5cdde0a34d2acb28.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3125,
+            "y_min": 0.439453125,
+            "x_max": 0.34375,
+            "y_max": 0.480859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2970260805636644,
+            "y_min": 0.4277058183401823,
+            "x_max": 0.3514114194363356,
+            "y_max": 0.4844035566598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txvtlisck20863fbb7u1gc_jpeg_jpg.rf.0586d7d53337303a3236e625e1341f17.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.045312500000000006,
+            "y_min": 0.585546875,
+            "x_max": 0.24375,
+            "y_max": 0.6941406250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.17341992773115636,
+            "y_min": 0.634223944991827,
+            "x_max": 0.26212694726884367,
+            "y_max": 0.717338555008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nehpd69bax0721onacbe33_jpeg_jpg.rf.9b187e4002117bb1f05ae8bbb16eba74.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.428125,
+            "y_min": 0.476953125,
+            "x_max": 0.709375,
+            "y_max": 0.648046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4168394464254379,
+            "y_min": 0.47700862914323805,
+            "x_max": 0.6495668035745621,
+            "y_max": 0.647991370856762,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l8cfmgahkk0838nbgj26un_jpeg_jpg.rf.5587efd260698a47a5bd8b4a9620771e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25625,
+            "y_min": 0.501953125,
+            "x_max": 0.728125,
+            "y_max": 0.5980468750000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.23957590714097024,
+            "y_min": 0.5339056453853845,
+            "x_max": 0.3522209678590298,
+            "y_max": 0.6028131046146155,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u00wpmuoae0701e4j4rgq4_jpeg_jpg.rf.d7ae1a520582a161c20bcc0ad09af5b3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1828125,
+            "y_min": 0.339453125,
+            "x_max": 0.3125,
+            "y_max": 0.655859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.19574965491890908,
+            "y_min": 0.5426659244298935,
+            "x_max": 0.31401597008109094,
+            "y_max": 0.6741309505701065,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tzkkd8ulz70701xe5upkxe_jpeg_jpg.rf.7bfa1c8cd41308e2a851771a1e5e49fa.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6921875000000001,
+            "y_min": 0.469140625,
+            "x_max": 0.9125,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6809049486368894,
+            "y_min": 0.4843464433401823,
+            "x_max": 0.7526888013631106,
+            "y_max": 0.5410441816598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tznjlaumey0701fbjp1dbu_jpeg_jpg.rf.5d536000c2d47a3db8e33e8fb3ae4985.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.5812499999999999,
+            "y_min": 0.45234375,
+            "x_max": 0.9515625,
+            "y_max": 0.60234375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8287891107797623,
+            "y_min": 0.5221938374638557,
+            "x_max": 0.9700390142202377,
+            "y_max": 0.6164780375361443,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t30z1wlpg60838dc6e4lcx_jpeg_jpg.rf.41f1e3c607517efc47c273e42845b7e9.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.8375,
+            "y_min": 0.43554687500000006,
+            "x_max": 0.9671875,
+            "y_max": 0.5941406250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.83156424716115,
+            "y_min": 0.42312667101621626,
+            "x_max": 0.98288887783885,
+            "y_max": 0.6061702039837837,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kmf5q58yik0944gdwwrqnt_jpeg_jpg.rf.edb0ae23cf6f4647159478f2e4f17ba4.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.78125,
+            "y_min": 0.508203125,
+            "x_max": 0.9921875,
+            "y_max": 0.605859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7837215173244476,
+            "y_min": 0.5577698773890734,
+            "x_max": 0.8393253576755524,
+            "y_max": 0.6199644976109266,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tzzys2sm6b0863k8qyy7hp_jpeg_jpg.rf.4cc13e7f12e7c6fbac3b14c14ba35c54.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6,
+            "y_min": 0.46640624999999997,
+            "x_max": 0.6749999999999999,
+            "y_max": 0.5226562499999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.5968978773057461,
+            "y_min": 0.46703125584870575,
+            "x_max": 0.6706802476942539,
+            "y_max": 0.5329687441512942,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyoro0uhpt0701sbzpdha0_jpeg_jpg.rf.5137302f7cdfd073856d076886efd7c8.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.259375,
+            "y_min": 0.5042968750000001,
+            "x_max": 0.5703125,
+            "y_max": 0.595703125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.24225990056991578,
+            "y_min": 0.5367991910502314,
+            "x_max": 0.35344322443008425,
+            "y_max": 0.6018726839497686,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rqlovu6jid0944lyedc9vj_jpeg_jpg.rf.d4869e42b3c61c64dc6cac7566a7d7d1.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0015624999999999944,
+            "y_min": 0.12929687499999998,
+            "x_max": 0.25468749999999996,
+            "y_max": 0.681640625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.1560625,
+            "y_min": 0.592,
+            "x_max": 0.2564375,
+            "y_max": 0.6720625,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.045125,
+            "y_min": 0.4341875,
+            "x_max": 0.1783125,
+            "y_max": 0.598625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.009187500000000001,
+            "y_min": 0.1779375,
+            "x_max": 0.1970625,
+            "y_max": 0.6376875,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t5t7ggo1650944q3cyegrd_jpeg_jpg.rf.1c4ac6bd0998de7bfdbf33f3468bc5b8.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.19218749999999998,
+            "y_min": 0.523046875,
+            "x_max": 0.29843749999999997,
+            "y_max": 0.6628906250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.22714295193552972,
+            "y_min": 0.5812067906558513,
+            "x_max": 0.3099664230644703,
+            "y_max": 0.6766057093441487,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ndu6n1059n0738t860ip47_jpeg_jpg.rf.d4a82812893fe86f5d4fe0bbfadd00bb.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.15312499999999998,
+            "y_min": 0.466796875,
+            "x_max": 0.415625,
+            "y_max": 0.606640625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27394445568323134,
+            "y_min": 0.5553538785502314,
+            "x_max": 0.39011804431676866,
+            "y_max": 0.6204273714497686,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0uki6ppytkz0721bttibej8_jpeg_jpg.rf.db4aaf6ec09e2d7e8f347a5690b2b822.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.29375,
+            "y_min": 0.425,
+            "x_max": 0.33125,
+            "y_max": 0.48125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2873589242994785,
+            "y_min": 0.41616183660924433,
+            "x_max": 0.3435004507005215,
+            "y_max": 0.48227566339075567,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lxaxgyeo150863mih7ypb7_jpeg_jpg.rf.2d79dc87c4ee7b46a336c1519141ec0c.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.8421875,
+            "y_min": 0.433203125,
+            "x_max": 0.9656250000000001,
+            "y_max": 0.593359375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8264389219880104,
+            "y_min": 0.42068142026662825,
+            "x_max": 0.9880142030119896,
+            "y_max": 0.6066623297333718,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nfq2hsj1ro0a46o4gncg6r_jpeg_jpg.rf.682fd402a013780494491665144ede3b.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.509375,
+            "y_min": 0.45234375000000004,
+            "x_max": 0.5890624999999999,
+            "y_max": 0.52734375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.5335866320133209,
+            "y_min": 0.4379494148492813,
+            "x_max": 0.5933664929866791,
+            "y_max": 0.4995505851507187,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kcqhwf4qtf0863lv432phe_jpeg_jpg.rf.1d8d4f3c4880271493018c7cc93af10e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.5109375,
+            "y_min": 0.42890625,
+            "x_max": 0.7703125,
+            "y_max": 0.52265625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.5080306898057461,
+            "y_min": 0.47422304425388573,
+            "x_max": 0.5818130601942539,
+            "y_max": 0.5374957057461143,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l9434gamzj0838n5rjdp1a_jpeg_jpg.rf.81792b7720f3a8b1e2e0bdf06172883e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0015624999999999944,
+            "y_min": 0.056640625,
+            "x_max": 0.2359375,
+            "y_max": 0.691796875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.13012680366635324,
+            "y_min": 0.603052816838026,
+            "x_max": 0.2585450713336468,
+            "y_max": 0.711400308161974,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t6p0chogef0701xhns6ujk_jpeg_jpg.rf.e206fc7131339d7b38497f64702e01c0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.709375,
+            "y_min": 0.464453125,
+            "x_max": 0.9343750000000001,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7111556898057461,
+            "y_min": 0.8105183183401823,
+            "x_max": 0.7849380601942539,
+            "y_max": 0.8672160566598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qdhfh1uks20848pclbrty6_jpeg_jpg.rf.284b82fedaac854c24c48c5c5978f6e4.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7078125000000001,
+            "y_min": 0.48359375,
+            "x_max": 0.853125,
+            "y_max": 0.52109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6849407823942602,
+            "y_min": 0.4819143703393638,
+            "x_max": 0.7330279676057398,
+            "y_max": 0.5317575046606362,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rr5vjd72og0701evwv8adg_jpeg_jpg.rf.057490fa765bf9554d7f820f4504695d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.13437500000000002,
+            "y_min": 0.480859375,
+            "x_max": 0.26875,
+            "y_max": 0.5519531249999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.13334374457597734,
+            "y_min": 0.5081487884931266,
+            "x_max": 0.23384375542402266,
+            "y_max": 0.5602105865068734,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kdwh3o6akx0838c87v3jbu_jpeg_jpg.rf.e7c81c8a7f8bf432febcf80a67c1b043.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.30937499999999996,
+            "y_min": 0.416796875,
+            "x_max": 0.4609375,
+            "y_max": 0.481640625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2940892386436462,
+            "y_min": 0.40511107586324213,
+            "x_max": 0.4871607613563538,
+            "y_max": 0.49723267413675787,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rp6q4583zz0721mrh6corb_jpeg_jpg.rf.84657b3dfc4da4650c682267294168f4.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.32968749999999997,
+            "y_min": 0.42070312499999996,
+            "x_max": 0.4109375,
+            "y_max": 0.498046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.33420256480574606,
+            "y_min": 0.42676841795444487,
+            "x_max": 0.40798493519425394,
+            "y_max": 0.5029190820455551,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t4z1yrkmfv0794t2oqhd3f_jpeg_jpg.rf.90b0b739951b05060c78f5de9f703f13.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.803125,
+            "y_min": 0.43554687500000006,
+            "x_max": 0.9625,
+            "y_max": 0.5941406250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8015466663241386,
+            "y_min": 0.433321635723114,
+            "x_max": 0.9855627086758614,
+            "y_max": 0.611600239276886,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyvz1p6ssd0848z1brl0fl_jpeg_jpg.rf.8f560b96b14b3cc589ec300394c7a0c5.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0015625000000000083,
+            "y_min": 0.10859374999999999,
+            "x_max": 0.25,
+            "y_max": 0.69609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.13972083806991578,
+            "y_min": 0.6151505573838949,
+            "x_max": 0.25090416193008425,
+            "y_max": 0.7090681926161051,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txxd8f6p0l08484tupben9_jpeg_jpg.rf.bdfb64f7776b8aaa78d4c174c973fcc1.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.50625,
+            "y_min": 0.433203125,
+            "x_max": 0.6546875,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.5006127073615789,
+            "y_min": 0.47191406834870575,
+            "x_max": 0.5755591676384211,
+            "y_max": 0.5378515566512942,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ngmuykjkh80a46a5qzv263_jpeg_jpg.rf.21150fa7fed3078ecbcdaa70521eb5d0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2953125,
+            "y_min": 0.42500000000000004,
+            "x_max": 0.3296875,
+            "y_max": 0.46875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2831062567606568,
+            "y_min": 0.415893714427948,
+            "x_max": 0.3438468682393432,
+            "y_max": 0.482543785572052,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujfqoy85bw0a46u3lgcx88_jpeg_jpg.rf.3a3660c3f283bfbe3383bcb4360c8bab.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7000000000000001,
+            "y_min": 0.47265625,
+            "x_max": 0.9,
+            "y_max": 0.52265625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6849407823942602,
+            "y_min": 0.4819143703393638,
+            "x_max": 0.7330279676057398,
+            "y_max": 0.5317575046606362,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kotq5d99760944cc8w1pib_jpeg_jpg.rf.9d342175dba5620e1da55ef5f9d7823d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2796875,
+            "y_min": 0.348046875,
+            "x_max": 0.63125,
+            "y_max": 0.645703125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.3617365616559982,
+            "y_min": 0.37473481476306914,
+            "x_max": 0.6363103133440018,
+            "y_max": 0.6623745602369309,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kdhymna0b10721v4wntit8_jpeg_jpg.rf.5777351853bf92b7292407bcf508fbf5.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.503125,
+            "y_min": 0.473046875,
+            "x_max": 0.6171875,
+            "y_max": 0.526953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.5045817936956882,
+            "y_min": 0.4624721310287714,
+            "x_max": 0.6106525813043118,
+            "y_max": 0.5355747439712286,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t59c0wnw4607010uyziiam_jpeg_jpg.rf.7b60b69fdb85806d7306bcfa6a94d15f.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0,
+            "y_min": 0.36679687499999997,
+            "x_max": 0.2484375,
+            "y_max": 0.669140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.013874999999999998,
+            "y_min": 0.3748125,
+            "x_max": 0.2564375,
+            "y_max": 0.6720625,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.5966875,
+            "y_min": 0.626375,
+            "x_max": 0.623625,
+            "y_max": 0.66425,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u0fzglungw0944luype68g_jpeg_jpg.rf.9167158469ba059ce9662dbd8054830d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.278125,
+            "y_min": 0.425,
+            "x_max": 0.32187499999999997,
+            "y_max": 0.47500000000000003
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2834736709669232,
+            "y_min": 0.4146435237675905,
+            "x_max": 0.3473857040330768,
+            "y_max": 0.4818408512324095,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kd2lpc7kvu0944pq8xomg1_jpeg_jpg.rf.ea63c8ae6844aadd53db7ecbd1c25a20.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.33125,
+            "y_min": 0.41445312500000003,
+            "x_max": 0.465625,
+            "y_max": 0.487109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2185625,
+            "y_min": 0.0,
+            "x_max": 0.279875,
+            "y_max": 0.0220625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.170125,
+            "y_min": 0.0,
+            "x_max": 0.22362500000000002,
+            "y_max": 0.0220625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.32376758885383605,
+            "y_min": 0.41430753414332866,
+            "x_max": 0.46724803614616395,
+            "y_max": 0.48608309085667134,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nfo0y4a2a00721ek5g056r_jpeg_jpg.rf.560f91b344289c049256bf3ec79dd6ad.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1171875,
+            "y_min": 0.470703125,
+            "x_max": 0.4234375,
+            "y_max": 0.599609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27170256480574606,
+            "y_min": 0.5519622783362865,
+            "x_max": 0.34548493519425394,
+            "y_max": 0.6218658466637135,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t4mzl8ljds0863b0iswyfc_jpeg_jpg.rf.9f1614c3992c7aaaf7f96c33a4efefc8.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4859375,
+            "y_min": 0.391796875,
+            "x_max": 0.678125,
+            "y_max": 0.526953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4794083698838949,
+            "y_min": 0.45800001874566076,
+            "x_max": 0.5733260051161051,
+            "y_max": 0.5419999812543392,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nd5toq009k0804lhknr6zt_jpeg_jpg.rf.218b68c0ddbbf57043ed843e5ee34b2e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1953125,
+            "y_min": 0.508203125,
+            "x_max": 0.2953125,
+            "y_max": 0.655859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.22257584661245347,
+            "y_min": 0.5753474156558513,
+            "x_max": 0.31062727838754656,
+            "y_max": 0.6707463343441487,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t5vqyazukh0a46v2hq9td6_jpeg_jpg.rf.cb1c3a245f641220d1298508e91b222d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.18906250000000002,
+            "y_min": 0.376953125,
+            "x_max": 0.4234375,
+            "y_max": 0.666796875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.21778705671429635,
+            "y_min": 0.5802523079514503,
+            "x_max": 0.3095566932857037,
+            "y_max": 0.6775601920485497,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0na8r4s7dor0721s8pn4uvo_jpeg_jpg.rf.65bef286d104b3e31febc25962ab8e54.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6984374999999999,
+            "y_min": 0.470703125,
+            "x_max": 0.9203125,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7083782823942602,
+            "y_min": 0.4818809102475643,
+            "x_max": 0.7564654676057398,
+            "y_max": 0.5317909647524357,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nftsdy5xck0838qb0yk262_jpeg_jpg.rf.1d895d3261698b559684c3cd2f5a218f.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1671875,
+            "y_min": 0.374609375,
+            "x_max": 0.3078125,
+            "y_max": 0.651953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.23852213613688947,
+            "y_min": 0.6037048860639334,
+            "x_max": 0.31030598886311056,
+            "y_max": 0.6677794889360666,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tx2mh0r4wk079479dvqbfl_jpeg_jpg.rf.72c1edfd4c1178254dec15a01e0ebc90.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6453125000000001,
+            "y_min": 0.399609375,
+            "x_max": 0.8609375,
+            "y_max": 0.508203125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7397531462088227,
+            "y_min": 0.44059485152363775,
+            "x_max": 0.8051687287911773,
+            "y_max": 0.5203426484763622,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u0hs5pwywo0721zyjfy75h_jpeg_jpg.rf.0087c10f0aeca051745517e57f7d82f8.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0031250000000000028,
+            "y_min": 0.554296875,
+            "x_max": 0.24062499999999998,
+            "y_max": 0.6941406250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.17486064463853837,
+            "y_min": 0.6337694167345762,
+            "x_max": 0.26068623036146166,
+            "y_max": 0.7119337082654238,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0owog84vf1d0701sbf84fw6_jpeg_jpg.rf.02e225e5c58ec5d3a5fcdf032e9863fc.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2875,
+            "y_min": 0.42109375000000004,
+            "x_max": 0.3359375,
+            "y_max": 0.46484375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2684487025439739,
+            "y_min": 0.40691983468830584,
+            "x_max": 0.3487387974560261,
+            "y_max": 0.47979891531169416,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txsbnlsx040838wocuy68k_jpeg_jpg.rf.6602faf91d146d50f31ba3d010746d2a.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2890625,
+            "y_min": 0.424609375,
+            "x_max": 0.33281249999999996,
+            "y_max": 0.47695312500000003
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27953776113688944,
+            "y_min": 0.4119030689075589,
+            "x_max": 0.35132161386311056,
+            "y_max": 0.4826281810924411,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0km4x1h672j0794gya4kfco_jpeg_jpg.rf.70b828b3d3760ab1a0bb86ba31b59692.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.26093750000000004,
+            "y_min": 0.508203125,
+            "x_max": 0.5078125,
+            "y_max": 0.593359375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.24862732693552972,
+            "y_min": 0.5334075908362865,
+            "x_max": 0.3314507980644703,
+            "y_max": 0.6033111591637135,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0m0fi9vgpgr0794ibqomk6e_jpeg_jpg.rf.57337901227204e0cef9655101b3aa60.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6984375,
+            "y_min": 0.475390625,
+            "x_max": 0.8828125,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6809049486368894,
+            "y_min": 0.4823933183401823,
+            "x_max": 0.7526888013631106,
+            "y_max": 0.5390910566598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0m0etrphwjo0838r9wzd6ia_jpeg_jpg.rf.2c20d30348d29ff0c30c9275323c5d19.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.140625,
+            "y_min": 0.47734375000000007,
+            "x_max": 0.328125,
+            "y_max": 0.55234375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2623314573615789,
+            "y_min": 0.473091132491827,
+            "x_max": 0.3372779176384211,
+            "y_max": 0.556205742508173,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.1459664511680603,
+            "y_min": 0.477973944991827,
+            "x_max": 0.2387991738319397,
+            "y_max": 0.561088555008173,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.2228366681560874,
+            "y_min": 0.4682640205323696,
+            "x_max": 0.2830227068439126,
+            "y_max": 0.5454078544676304,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tstact5eu60a46dakdr243_jpeg_jpg.rf.31cb41d7016e947ae663e97e215cadae.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7203125,
+            "y_min": 0.437890625,
+            "x_max": 0.959375,
+            "y_max": 0.598046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8557708081975579,
+            "y_min": 0.5411189771443605,
+            "x_max": 0.9176666918024421,
+            "y_max": 0.6151310228556395,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ovkzw8secm0863zxuv11su_jpeg_jpg.rf.3a22e22024b352797f6ae95cbb1c1616.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.175,
+            "y_min": 0.375390625,
+            "x_max": 0.26875,
+            "y_max": 0.585546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2004743567854166,
+            "y_min": 0.5026886384189129,
+            "x_max": 0.2936662682145834,
+            "y_max": 0.6027801115810871,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kksymy5z9j0794x0i3rdvo_jpeg_jpg.rf.9875896c4187b85ad65881b972886328.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.43906249999999997,
+            "y_min": 0.443359375,
+            "x_max": 0.4796875,
+            "y_max": 0.501953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4282297087088227,
+            "y_min": 0.43375891402363775,
+            "x_max": 0.4936452912911773,
+            "y_max": 0.5135067109763622,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nepj3s015b0a88py3wvbqu_jpeg_jpg.rf.780f36b0d3893aea22b7de1f11605307.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.490625,
+            "y_min": 0.306640625,
+            "x_max": 0.865625,
+            "y_max": 0.529296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4915798898041248,
+            "y_min": 0.482983883023262,
+            "x_max": 0.6314669851958752,
+            "y_max": 0.569750491976738,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qd918zic840701hnezgpgy_jpeg_jpg.rf.acce458da7f5187ea749461da6626a8b.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.271875,
+            "y_min": 0.35820312499999996,
+            "x_max": 0.65625,
+            "y_max": 0.643359375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2519021737575531,
+            "y_min": 0.35484316527843474,
+            "x_max": 0.6465353262424469,
+            "y_max": 0.6510162097215653,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kkz639le090848leseakdk_jpeg_jpg.rf.53f08ef6819a90fd390dd918dfcd4323.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2953125,
+            "y_min": 0.531640625,
+            "x_max": 0.35,
+            "y_max": 0.6042968750000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2736419658362865,
+            "y_min": 0.5350758466124534,
+            "x_max": 0.3435455341637135,
+            "y_max": 0.6231272783875466,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kkxngib3qh0721x6mgyttk_jpeg_jpg.rf.20ce76b98268c610de26fe0f7ecc5bfb.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25625000000000003,
+            "y_min": 0.5187499999999999,
+            "x_max": 0.559375,
+            "y_max": 0.5875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.257625,
+            "y_min": 0.545125,
+            "x_max": 0.32206250000000003,
+            "y_max": 0.5845625,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0uivtpc841h0a46ydgo7566_jpeg_jpg.rf.8bde27c9bf4ae977fed93e666cd533fe.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48125,
+            "y_min": 0.429296875,
+            "x_max": 0.6125,
+            "y_max": 0.525390625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.47333179369568823,
+            "y_min": 0.456489569991827,
+            "x_max": 0.5794025813043118,
+            "y_max": 0.539604180008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t6flogo9bb094428fjegnm_jpeg_jpg.rf.6949cd2ba3fd92ba0d82d53e93837146.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.5859375,
+            "y_min": 0.6,
+            "x_max": 0.7234375,
+            "y_max": 0.7062499999999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.649870963320136,
+            "y_min": 0.6423266022652387,
+            "x_max": 0.730988411679864,
+            "y_max": 0.7248608977347613,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rqf6p055aw0838g7rq1u9v_jpeg_jpg.rf.c203b55801da26c3bb4d70d96b14406c.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.140625,
+            "y_min": 0.48554687500000004,
+            "x_max": 0.2625,
+            "y_max": 0.551953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4223973485827446,
+            "y_min": 0.25753845788538454,
+            "x_max": 0.4838526514172554,
+            "y_max": 0.32644591711461546,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l9fr16nhu20a46eqv4fvr8_jpeg_jpg.rf.8a71db802d759088b02867df9af7689a.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7765625,
+            "y_min": 0.423046875,
+            "x_max": 0.9953125,
+            "y_max": 0.544140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7730413894355297,
+            "y_min": 0.4726812807098031,
+            "x_max": 0.8558648605644703,
+            "y_max": 0.5370843442901969,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lxa18hic880701ux5axl97_jpeg_jpg.rf.6882facb8376af0a33df36bafb67c417.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6953125,
+            "y_min": 0.481640625,
+            "x_max": 0.8671875,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6130013573169708,
+            "y_min": 0.4784870683401823,
+            "x_max": 1.0,
+            "y_max": 0.5351848066598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lxe157jywu0721jwuvnom0_jpeg_jpg.rf.d9d57124b5b6038a1858ddc747c1fbcf.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.26093750000000004,
+            "y_min": 0.537890625,
+            "x_max": 0.3046875,
+            "y_max": 0.579296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.24543914247304202,
+            "y_min": 0.5360748893767595,
+            "x_max": 0.311201482526958,
+            "y_max": 0.6006438606232405,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u030x8uono0701kp4dvddz_jpeg_jpg.rf.612930112f698154f12fa3dbf8c0eaa5.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4796875,
+            "y_min": 0.32109375,
+            "x_max": 0.8609374999999999,
+            "y_max": 0.53359375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4714733814075589,
+            "y_min": 0.4829384987428784,
+            "x_max": 0.5421984935924411,
+            "y_max": 0.5424521262571216,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0na55fy5b720701gr5xzev9_jpeg_jpg.rf.062ecdffc380e8b241b2de995030b6dc.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48437500000000006,
+            "y_min": 0.35820312499999996,
+            "x_max": 0.6468750000000001,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.47771324545145033,
+            "y_min": 0.43364125818014143,
+            "x_max": 0.5750211295485497,
+            "y_max": 0.5429212418198586,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t7cnx9n84208386ufrbnj2_jpeg_jpg.rf.0e7e8502e71d469096e3e1b6ba315cef.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.203125,
+            "y_min": 0.45429687499999993,
+            "x_max": 0.2828125,
+            "y_max": 0.594140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0kepbs9kdym0848hgpcf3y9_jpeg_jpg.rf.cc9b61eb542351dc4c271e63b431cfd4.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.128125,
+            "y_min": 0.46484375000000006,
+            "x_max": 0.425,
+            "y_max": 0.5960937500000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2847601394355297,
+            "y_min": 0.5568682518973946,
+            "x_max": 0.3675836105644703,
+            "y_max": 0.6189129981026054,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0m14sd8vbk90a461shu6qbb_jpeg_jpg.rf.e7787f9e99a072391f78e42072e207dc.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2609375,
+            "y_min": 0.537109375,
+            "x_max": 0.3640625,
+            "y_max": 0.583203125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.24264440082013608,
+            "y_min": 0.5386807271465659,
+            "x_max": 0.32376184917986395,
+            "y_max": 0.5999911478534341,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0m1lu0nhb320863zyoofeiw_jpeg_jpg.rf.5c6793713ff523ea1671f1e2ea51484d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.20625,
+            "y_min": 0.495703125,
+            "x_max": 0.39218749999999997,
+            "y_max": 0.605859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27643958806991575,
+            "y_min": 0.5206514443457126,
+            "x_max": 0.38762291193008425,
+            "y_max": 0.6258329306542874,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kfm0ie6jf7083851froruk_jpeg_jpg.rf.bf725aa5164f9019bcdc6bc790b4e001.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.146875,
+            "y_min": 0.425390625,
+            "x_max": 0.571875,
+            "y_max": 0.554296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.13606028214097024,
+            "y_min": 0.49338225230574606,
+            "x_max": 0.24870534285902976,
+            "y_max": 0.5671646226942539,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l9jo4f9eey0794uap3bxz6_jpeg_jpg.rf.6f1aeea4ded40e75b5eea488d50667ca.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.265625,
+            "y_min": 0.34609375,
+            "x_max": 0.6171875,
+            "y_max": 0.64609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.45434571385383604,
+            "y_min": 0.5342271956801414,
+            "x_max": 0.621826161146164,
+            "y_max": 0.6435071793198586,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t421swni18070115tymsht_jpeg_jpg.rf.11fa777dfa2d860b191539f3720839e2.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7109375,
+            "y_min": 0.406640625,
+            "x_max": 0.8359375,
+            "y_max": 0.504296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7100261817872524,
+            "y_min": 0.4305633600056171,
+            "x_max": 0.8309894432127476,
+            "y_max": 0.5206085149943829,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tzinm26vvi0848hrzkprh2_jpeg_jpg.rf.c35ef1d771399475dc96ed7cf86d1ccf.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.140625,
+            "y_min": 0.508203125,
+            "x_max": 0.22499999999999998,
+            "y_max": 0.5558593749999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.333518933057785,
+            "y_min": 0.00020446583628654438,
+            "x_max": 0.396949816942215,
+            "y_max": 0.07010803416371346,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nds16a43eg08630h6n5un1_jpeg_jpg.rf.65095292fc96a4b7d65ce176d09c82b0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2546875,
+            "y_min": 0.524609375,
+            "x_max": 0.315625,
+            "y_max": 0.583203125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2404525648057461,
+            "y_min": 0.5406338521465659,
+            "x_max": 0.31423493519425394,
+            "y_max": 0.6019442728534341,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t2zodcyvqs0a46wwxb53xm_jpeg_jpg.rf.304d64ee4a30e7f69d5b6cb59819c6b5.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.36093749999999997,
+            "y_min": 0.42265625,
+            "x_max": 0.4796875,
+            "y_max": 0.49765624999999997
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.170125,
+            "y_min": 0.0,
+            "x_max": 0.22362500000000002,
+            "y_max": 0.0220625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.220125,
+            "y_min": 0.0,
+            "x_max": 0.279875,
+            "y_max": 0.0220625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.35918924716114997,
+            "y_min": 0.42447704952955245,
+            "x_max": 0.48651387783885003,
+            "y_max": 0.49739795047044755,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lwhatvfrid08386w2352zc_jpeg_jpg.rf.ac1dc9de86b82c1345f4d26d8a9f0ca7.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.004687499999999997,
+            "y_min": 0.526953125,
+            "x_max": 0.23593750000000002,
+            "y_max": 0.687109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.19558304596692325,
+            "y_min": 0.6494567771628499,
+            "x_max": 0.2594950790330768,
+            "y_max": 0.7099182228371501,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kfjen48qhj0701wjkosmel_jpeg_jpg.rf.da8007d4e033608fd15e29a1f9a3a9e6.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.47500000000000003,
+            "y_min": 0.32070312500000003,
+            "x_max": 0.7390625,
+            "y_max": 0.5417968750000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.48022770091891287,
+            "y_min": 0.47266685545444487,
+            "x_max": 0.5803191740810871,
+            "y_max": 0.5488175195455551,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l9uumy9b4i0863izsuks74_jpeg_jpg.rf.4abbb4af0957589db37d38c545a178d3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48125,
+            "y_min": 0.458203125,
+            "x_max": 0.58125,
+            "y_max": 0.524609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.468679651170969,
+            "y_min": 0.458442694991827,
+            "x_max": 0.591867223829031,
+            "y_max": 0.541557305008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0knae84lryw08485s94co4s_jpeg_jpg.rf.c8114b3dff51cd9c507dafaade8331ba.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2859375,
+            "y_min": 0.506640625,
+            "x_max": 0.371875,
+            "y_max": 0.604296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27389440082013605,
+            "y_min": 0.5477392799407244,
+            "x_max": 0.35501184917986395,
+            "y_max": 0.6241357200592756,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujw76nui2g0863hz7l7uqo_jpeg_jpg.rf.71a99a7007e56eb67010448fb3348791.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.515625,
+            "y_min": 0.55625,
+            "x_max": 0.83125,
+            "y_max": 0.6625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6969531732797623,
+            "y_min": 0.5960202547907829,
+            "x_max": 0.8382030767202377,
+            "y_max": 0.6774172452092171,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tx0999u6br0944s68atde0_jpeg_jpg.rf.3cc989612908d4595d78be9cf7d58397.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.37187500000000007,
+            "y_min": 0.533203125,
+            "x_max": 0.821875,
+            "y_max": 0.6558593749999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7151823560893535,
+            "y_min": 0.6038210564479232,
+            "x_max": 0.8355988939106465,
+            "y_max": 0.6735226935520768,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lyhdgvtl1m0a46g6vawhau_jpeg_jpg.rf.670461ccf1c828e271d43b3d2ad8f96e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.19687500000000002,
+            "y_min": 0.356640625,
+            "x_max": 0.3921875,
+            "y_max": 0.6480468749999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.223020610883832,
+            "y_min": 0.5657111103832722,
+            "x_max": 0.30822938911616804,
+            "y_max": 0.6745232646167278,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txvaz6ub6h09447ux3qyyt_jpeg_jpg.rf.7607922377c5c7ae4e5d8a2f137cf552.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.278125,
+            "y_min": 0.424609375,
+            "x_max": 0.32968749999999997,
+            "y_max": 0.47695312500000003
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27758463613688944,
+            "y_min": 0.41180264718830584,
+            "x_max": 0.34936848886311056,
+            "y_max": 0.48468172781169416,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyv5y2wpox0721volr4z26_jpeg_jpg.rf.0d2b8b0d5b20181529e0a37314f251ee.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.109375,
+            "y_min": 0.47109375,
+            "x_max": 0.4375,
+            "y_max": 0.6085937499999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2746846084669232,
+            "y_min": 0.5530398064479232,
+            "x_max": 0.3385966415330768,
+            "y_max": 0.6227414435520768,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u13xaxuv4k07010miwxisb_jpeg_jpg.rf.7e0ac1d2a8cc63c8d61099929315e148.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25625,
+            "y_min": 0.491796875,
+            "x_max": 0.8859374999999999,
+            "y_max": 0.633203125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2407831507921219,
+            "y_min": 0.5375183136388659,
+            "x_max": 0.35491997420787813,
+            "y_max": 0.6031066863611341,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t2b97en04q0701ndyfepcr_jpeg_jpg.rf.c9514528062c80fe550533e5493498f0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7203125,
+            "y_min": 0.399609375,
+            "x_max": 0.8406250000000001,
+            "y_max": 0.49570312499999997
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7111814911663532,
+            "y_min": 0.3865412767231464,
+            "x_max": 0.8395997588336468,
+            "y_max": 0.5001774732768536,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0twempn5ur80a462q4bosuo_jpeg_jpg.rf.a4c42b02f84e2c677c811bddeabd6665.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.690625,
+            "y_min": 0.462890625,
+            "x_max": 0.8546875,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0u00a7o6ask0a467afyogi5_jpeg_jpg.rf.4c0f8de1a4c757d01124b20d24cdb170.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.19062500000000002,
+            "y_min": 0.35625,
+            "x_max": 0.31093750000000003,
+            "y_max": 0.6625000000000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.22110591970384122,
+            "y_min": 0.568824812322855,
+            "x_max": 0.3101440802961588,
+            "y_max": 0.671409562677145,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lwj354jo7n07218v6vgpvi_jpeg_jpg.rf.ddad18f7e145225870f6ef3251ae0d6c.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0031250000000000167,
+            "y_min": 0.12929687500000003,
+            "x_max": 0.271875,
+            "y_max": 0.670703125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.1545,
+            "y_min": 0.5904375,
+            "x_max": 0.254875,
+            "y_max": 0.6720625,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujob3n85zc0a46r0pdmhoy_jpeg_jpg.rf.f9e959f766d2697629b68cecd23e8bd9.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6296875000000001,
+            "y_min": 0.5832031249999999,
+            "x_max": 0.8140625,
+            "y_max": 0.660546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7009353782236576,
+            "y_min": 0.5792649346590042,
+            "x_max": 0.8264083717763424,
+            "y_max": 0.6785475653409958,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t51xn3ns6t0701kue9baog_jpeg_jpg.rf.8289c87cb0df5be68656a6578bf99132.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.340625,
+            "y_min": 0.424609375,
+            "x_max": 0.3953125,
+            "y_max": 0.49570312499999997
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.32784500673413275,
+            "y_min": 0.4058046820759773,
+            "x_max": 0.40652999326586725,
+            "y_max": 0.5063046929240227,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lwjms6i2ru0701i4l78d84_jpeg_jpg.rf.2d8b335947d559a7485fad32e77502f9.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.5171874999999999,
+            "y_min": 0.5625,
+            "x_max": 0.8203125,
+            "y_max": 0.6625000000000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6930469232797623,
+            "y_min": 0.5841364781558513,
+            "x_max": 0.8342968267202377,
+            "y_max": 0.6795353968441487,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyhb0zszbr0838w1dyisjw_jpeg_jpg.rf.d17c543e461469afdf0e69d3f7e9fd0f.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4328125,
+            "y_min": 0.441796875,
+            "x_max": 0.47812499999999997,
+            "y_max": 0.501953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4229842252284288,
+            "y_min": 0.42967970624566076,
+            "x_max": 0.4988907747715712,
+            "y_max": 0.5136796687543392,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kn6xvv6ds10794waw8k1tx_jpeg_jpg.rf.c9f9e80f389cf24d2240b6813fbbd01e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.628125,
+            "y_min": 0.46054687499999997,
+            "x_max": 0.95,
+            "y_max": 0.6066406249999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8411589185893535,
+            "y_min": 0.5221938374638557,
+            "x_max": 0.9615754564106465,
+            "y_max": 0.6164780375361443,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0neurvn42jv0794al16dzhw_jpeg_jpg.rf.0da0490d601fa4d7b114a9b81cb09580.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1453125,
+            "y_min": 0.424609375,
+            "x_max": 0.528125,
+            "y_max": 0.551953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2324930238723755,
+            "y_min": 0.4592092032730579,
+            "x_max": 0.34563197612762453,
+            "y_max": 0.5661814217269421,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.13610421262681485,
+            "y_min": 0.4931517983973026,
+            "x_max": 0.22717703737318515,
+            "y_max": 0.5673950766026974,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.3249926860630512,
+            "y_min": 0.41996663764119146,
+            "x_max": 0.4718823139369488,
+            "y_max": 0.5683146123588085,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0km64lvbavu0721bhfm918u_jpeg_jpg.rf.1b3485dd654cac7ab5deb0b7e5bb0280.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2875,
+            "y_min": 0.529296875,
+            "x_max": 0.3515625,
+            "y_max": 0.606640625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27072600230574606,
+            "y_min": 0.5317086386680603,
+            "x_max": 0.34450837269425394,
+            "y_max": 0.6245413613319397,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u96z1nxzlx0721hdcmet81_jpeg_jpg.rf.44ca8762487859e5a2a65ae35be799d2.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7765625,
+            "y_min": 0.50625,
+            "x_max": 0.9921875,
+            "y_max": 0.6062500000000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.639970392473042,
+            "y_min": 0.6041486254148185,
+            "x_max": 0.705732732526958,
+            "y_max": 0.6536638745851815,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.547196954973042,
+            "y_min": 0.6051251879148185,
+            "x_max": 0.612959295026958,
+            "y_max": 0.6546404370851815,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qbex0ljri20721b1v9gyp5_jpeg_jpg.rf.27456e4a7e0dca677df3cf330324d613.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.5171874999999999,
+            "y_min": 0.433203125,
+            "x_max": 0.6875,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.5328070144355297,
+            "y_min": 0.4445404033362865,
+            "x_max": 0.6156304855644703,
+            "y_max": 0.5144439716637135,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0uk19kvwftk0944hsc0vul0_jpeg_jpg.rf.e388e03cfe4f94372584cdba5ef891ce.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.47187500000000004,
+            "y_min": 0.414453125,
+            "x_max": 0.6015625,
+            "y_max": 0.530859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4773615892231464,
+            "y_min": 0.4003640334308147,
+            "x_max": 0.5909977857768536,
+            "y_max": 0.5429953415691853,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rqqw9o6t8x07017cthtiom_jpeg_jpg.rf.c8266e53924835d1e4885b884b20e841.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.734375,
+            "y_min": 0.400390625,
+            "x_max": 0.8265625000000001,
+            "y_max": 0.504296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7149089942872524,
+            "y_min": 0.4422859442606568,
+            "x_max": 0.8358722557127476,
+            "y_max": 0.5030265557393432,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rp8yjl4f5b0838yi4z8ub1_jpeg_jpg.rf.96cb01bc0911c810bd96ea1ed0babc85.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.22031250000000002,
+            "y_min": 0.42265625,
+            "x_max": 0.328125,
+            "y_max": 0.46640624999999997
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0nevwgw73ne094401pqo8zp_jpeg_jpg.rf.45b0bf9e2bf4c82923e9cced6bbb5b7e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3015625,
+            "y_min": 0.41640625000000003,
+            "x_max": 0.465625,
+            "y_max": 0.49140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2873466271162033,
+            "y_min": 0.403418540507555,
+            "x_max": 0.4763252478837967,
+            "y_max": 0.496972084492445,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0oukl7vtoje0944m2ijpxlm_jpeg_jpg.rf.44dae279d7935c8b07db4d8eca569ef9.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.28750000000000003,
+            "y_min": 0.5562499999999999,
+            "x_max": 0.340625,
+            "y_max": 0.59375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2711026021465659,
+            "y_min": 0.5575592643767595,
+            "x_max": 0.3324130228534341,
+            "y_max": 0.6221282356232405,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ncvnd332hj079400vhocib_jpeg_jpg.rf.fc8b13182809e4b26eb294132b881090.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0015625000000000083,
+            "y_min": 0.354296875,
+            "x_max": 0.25,
+            "y_max": 0.676953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.12911677315831185,
+            "y_min": 0.5547618898749351,
+            "x_max": 0.2517426018416882,
+            "y_max": 0.6893787351250649,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nftcfgka7e0848a9ie2b3b_jpeg_jpg.rf.aef66b82c8ec19e2b1f25c88b45a1352.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.778125,
+            "y_min": 0.448046875,
+            "x_max": 0.8703125,
+            "y_max": 0.519140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7555583561956882,
+            "y_min": 0.4494617297500372,
+            "x_max": 0.8616291438043118,
+            "y_max": 0.5368663952499628,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rplig25z1n0944kpecwx3o_jpeg_jpg.rf.fc134f2a388d6d6a10a85ec64d9df1e5.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48281250000000003,
+            "y_min": 0.33515625,
+            "x_max": 0.8203125,
+            "y_max": 0.52890625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.47077552556991575,
+            "y_min": 0.463325507491827,
+            "x_max": 0.5819588494300842,
+            "y_max": 0.546440117508173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kcoc8ik6ni0848clxs0vif_jpeg_jpg.rf.dc2e2859da5100d04d891a245faacbb7.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.44843750000000004,
+            "y_min": 0.55390625,
+            "x_max": 0.815625,
+            "y_max": 0.66015625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7674926719814539,
+            "y_min": 0.6102936393767595,
+            "x_max": 0.8399292030185461,
+            "y_max": 0.6748626106232405,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kcnqqgk6li0848vp3bn5sx_jpeg_jpg.rf.25852055d8b23a71c25a6a3a8021e4fc.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0,
+            "y_min": 0.38789062499999993,
+            "x_max": 0.2375,
+            "y_max": 0.691796875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.15837730795145036,
+            "y_min": 0.6399538689479232,
+            "x_max": 0.25568519204854967,
+            "y_max": 0.7096555060520768,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rqdyeq4kxa08633xv2wqe1_jpeg_jpg.rf.e4bf87fca3b309f77ab97ed0ddc68897.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4828125,
+            "y_min": 0.15,
+            "x_max": 0.8140625,
+            "y_max": 0.5375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.48052470713853834,
+            "y_min": 0.47266685545444487,
+            "x_max": 0.5663502928614617,
+            "y_max": 0.5488175195455551,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t4rrmsnjuy0944xt22ilg4_jpeg_jpg.rf.d656ed6327c4db60fa52936f99af262d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.14218750000000002,
+            "y_min": 0.46054687499999997,
+            "x_max": 0.3921875,
+            "y_max": 0.556640625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.14379883885383607,
+            "y_min": 0.4611901897192001,
+            "x_max": 0.31127928614616396,
+            "y_max": 0.5642004352807999,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0twvs9zu5t00944ltnvijnz_jpeg_jpg.rf.57a7c713d22f18fc95826e245af233cb.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25625000000000003,
+            "y_min": 0.531640625,
+            "x_max": 0.340625,
+            "y_max": 0.585546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.24383267343044282,
+            "y_min": 0.5370514518767595,
+            "x_max": 0.3284329515695572,
+            "y_max": 0.6016204231232405,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rr6kut5kx30838ethvdv5u_jpeg_jpg.rf.902b7b9c2f4eb043beaac8e992599f33.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7,
+            "y_min": 0.470703125,
+            "x_max": 0.85625,
+            "y_max": 0.524609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6799056898057461,
+            "y_min": 0.4803013778477907,
+            "x_max": 0.7536880601942539,
+            "y_max": 0.5411829971522093,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ow7vs07tuz08485n4yz5si_jpeg_jpg.rf.0c9d8ac8cf38cd5b9ef68230122f14ef.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6031249999999999,
+            "y_min": 0.45429687499999993,
+            "x_max": 0.9484375,
+            "y_max": 0.594140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8915819167345762,
+            "y_min": 0.5209664511680603,
+            "x_max": 0.9697462082654238,
+            "y_max": 0.6137991738319397,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0twzaqtua2r0701hljesqvp_jpeg_jpg.rf.be2cbc70794e719588f8ecada1cf8b87.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.09687499999999999,
+            "y_min": 0.460546875,
+            "x_max": 0.42343749999999997,
+            "y_max": 0.6082031250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2727314834669232,
+            "y_min": 0.5610634987428784,
+            "x_max": 0.3366435165330768,
+            "y_max": 0.6205771262571216,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qbsnz6fcn40863jl1deoe9_jpeg_jpg.rf.99749bfa6748b9cf2db8953d1315007e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48749999999999993,
+            "y_min": 0.18125,
+            "x_max": 0.7796875,
+            "y_max": 0.54375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.48369780510663984,
+            "y_min": 0.47071373045444487,
+            "x_max": 0.5631771948933602,
+            "y_max": 0.5468643945455551,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyhipjwo1707211p8ov4bm_jpeg_jpg.rf.cb6a6283cd09eb1b9101e7240552fb45.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6875,
+            "y_min": 0.4625,
+            "x_max": 0.8703125,
+            "y_max": 0.525
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0lxi2vsiexh0701c7jcu934_jpeg_jpg.rf.7f4a1cbfc15438f1a52946c390380fac.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.003124999999999989,
+            "y_min": 0.145703125,
+            "x_max": 0.2609375,
+            "y_max": 0.673046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.1560625,
+            "y_min": 0.5904375,
+            "x_max": 0.261125,
+            "y_max": 0.6720625,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.0060625,
+            "y_min": 0.301375,
+            "x_max": 0.1908125,
+            "y_max": 0.6408125,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0twzjvps8kb0863yht85hg8_jpeg_jpg.rf.7f63310f6e92ff0e7d7a407ff501c95e.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.46562499999999996,
+            "y_min": 0.5375,
+            "x_max": 0.8125,
+            "y_max": 0.6625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7284318073838949,
+            "y_min": 0.6124573773890734,
+            "x_max": 0.8223494426161051,
+            "y_max": 0.6746519976109266,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kewjljj9q20a46zd3hi5wl_jpeg_jpg.rf.a9c456f8b519d70fe7b6c86a0592946d.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.65625,
+            "y_min": 0.404296875,
+            "x_max": 0.8515625,
+            "y_max": 0.512890625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7330917096883058,
+            "y_min": 0.4394878554344177,
+            "x_max": 0.8059707903116942,
+            "y_max": 0.5214496445655823,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rr0ik14xk30863c291xijp_jpeg_jpg.rf.25912d72e72818946ca32e2d14c55fb9.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.190625,
+            "y_min": 0.426953125,
+            "x_max": 0.2734375,
+            "y_max": 0.593359375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.17912152364850045,
+            "y_min": 0.4731698851287365,
+            "x_max": 0.3267378513514996,
+            "y_max": 0.6322988648712635,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujmglz85u10a468qt0d4fc_jpeg_jpg.rf.03c0189e740e2a22f13134aadd9dd5bf.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25312500000000004,
+            "y_min": 0.437890625,
+            "x_max": 0.9921875,
+            "y_max": 0.629296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2411254844814539,
+            "y_min": 0.5460980879329145,
+            "x_max": 0.3135620155185461,
+            "y_max": 0.6003862870670855,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ndrnhi3fkn0794vbn53c08_jpeg_jpg.rf.3b6e3f21c35810273bbb8b6988e08433.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3046875,
+            "y_min": 0.426953125,
+            "x_max": 0.33281249999999996,
+            "y_max": 0.46835937499999997
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2941948617994785,
+            "y_min": 0.4112361646443605,
+            "x_max": 0.3503363882005215,
+            "y_max": 0.4852482103556395,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ovrdff7ir20848kelskyn8_jpeg_jpg.rf.782c5211bf6f18411486856fea290f61.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48750000000000004,
+            "y_min": 0.237109375,
+            "x_max": 0.875,
+            "y_max": 0.5394531250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.526375,
+            "y_min": 0.3216875,
+            "x_max": 0.68925,
+            "y_max": 0.5064375,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txg39r6n250848puinmu6k_jpeg_jpg.rf.fa6084899597d32ff301b91cb182a9f1.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4390625,
+            "y_min": 0.449609375,
+            "x_max": 0.478125,
+            "y_max": 0.501953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.43171786844730375,
+            "y_min": 0.43375891402363775,
+            "x_max": 0.49406338155269625,
+            "y_max": 0.5135067109763622,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tt28fjsc1i0838s2ji5dhe_jpeg_jpg.rf.53d2ee92bb3e54f55b3b3ad75078aee3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6656249999999999,
+            "y_min": 0.41289062499999996,
+            "x_max": 0.859375,
+            "y_max": 0.498046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7387042925879359,
+            "y_min": 0.44891202218830584,
+            "x_max": 0.7964519574120641,
+            "y_max": 0.5217911028116942,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l9y6snotc30848s7ciyz6j_jpeg_jpg.rf.9bbbe0a8dfc0c418c393c6ec30999279.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7015625,
+            "y_min": 0.485546875,
+            "x_max": 0.834375,
+            "y_max": 0.519140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0k9lqaz4ict0863typf3ngd_jpeg_jpg.rf.a62c2b4d1c99772c9bd516b175754432.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1453125,
+            "y_min": 0.45859375,
+            "x_max": 0.4171875,
+            "y_max": 0.55234375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.14115039587020875,
+            "y_min": 0.4675063374638557,
+            "x_max": 0.3373652291297913,
+            "y_max": 0.5617905375361443,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t6epc3ql720721yfbt878q_jpeg_jpg.rf.e76666821b2eb91421ce8716614c74ad.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48750000000000004,
+            "y_min": 0.29179687499999996,
+            "x_max": 0.875,
+            "y_max": 0.550390625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4706176719814539,
+            "y_min": 0.4829384987428784,
+            "x_max": 0.5430542030185461,
+            "y_max": 0.5424521262571216,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ouldkdrpic086327fu1wjk_jpeg_jpg.rf.1b4f20fa0020e441d688c6961bd8bfc3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.45625000000000004,
+            "y_min": 0.53359375,
+            "x_max": 0.8046875,
+            "y_max": 0.6648437500000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7194255436956882,
+            "y_min": 0.597114569991827,
+            "x_max": 0.8254963313043118,
+            "y_max": 0.680229180008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0twxu2f5xaj0a4648ury7hi_jpeg_jpg.rf.2e2a6763296dba58e39145efb11c7dc7.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.28750000000000003,
+            "y_min": 0.418359375,
+            "x_max": 0.3390625,
+            "y_max": 0.476953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.28735026113688944,
+            "y_min": 0.4125150894001126,
+            "x_max": 0.35913411386311056,
+            "y_max": 0.4820161605998874,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kp6k1p6lxe0794by4thy6r_jpeg_jpg.rf.74f2f48fa806d244a7d51c417c2cff36.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.403125,
+            "y_min": 0.43789062500000003,
+            "x_max": 0.48125,
+            "y_max": 0.5105468750000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.38648670867085455,
+            "y_min": 0.415676084831357,
+            "x_max": 0.49437266632914545,
+            "y_max": 0.508152040168643,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qbnoibg4ip0838na1tnqe8_jpeg_jpg.rf.156c7657480ab8f67263b58b267124eb.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6218750000000001,
+            "y_min": 0.39609375,
+            "x_max": 0.85,
+            "y_max": 0.50234375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7336689834669232,
+            "y_min": 0.4497794076055288,
+            "x_max": 0.7975810165330768,
+            "y_max": 0.5209237173944712,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0lxeugahhve09449l5anbuj_jpeg_jpg.rf.f346d9f891d62545ebf55149c71be623.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.25625,
+            "y_min": 0.499609375,
+            "x_max": 0.7953125,
+            "y_max": 0.6082031250000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2428034930676222,
+            "y_min": 0.5448933183401823,
+            "x_max": 0.31969650693237783,
+            "y_max": 0.6015910566598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0txbqlewjuv0721agjyhu78_jpeg_jpg.rf.4132bd40dfc72feb5bbf90f8a3e7c4e3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48749999999999993,
+            "y_min": 0.29140625,
+            "x_max": 0.8109375,
+            "y_max": 0.52890625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.48580846332013605,
+            "y_min": 0.4859122201055288,
+            "x_max": 0.566925911679864,
+            "y_max": 0.5570565298944712,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u0m0dqtaz70838kcm0o9w3_jpeg_jpg.rf.efa0c7b377fd2de39deb401fb7e3886b.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6125,
+            "y_min": 0.45820312500000004,
+            "x_max": 0.6953125,
+            "y_max": 0.505859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6060814573615789,
+            "y_min": 0.45627287730574606,
+            "x_max": 0.6810279176384211,
+            "y_max": 0.5300552476942539,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0oul6eyrpa408637g72xnc4_jpeg_jpg.rf.e126ddd4edd1c0dc9e6368b5c59c65e0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1078125,
+            "y_min": 0.49140624999999993,
+            "x_max": 0.41718750000000004,
+            "y_max": 0.60390625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27944308660924433,
+            "y_min": 0.5501101189479232,
+            "x_max": 0.34555691339075567,
+            "y_max": 0.6198117560520768,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t73htzoi4l0944t1g4vr7e_jpeg_jpg.rf.17eee57f9825ab26b0697871e274ae08.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.46562499999999996,
+            "y_min": 0.51484375,
+            "x_max": 0.809375,
+            "y_max": 0.66484375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7530623502284288,
+            "y_min": 0.6128994771465659,
+            "x_max": 0.8289688997715712,
+            "y_max": 0.6742098978534341,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tzwr6a6y270848xgzmj6hq_jpeg_jpg.rf.020a81f8fa6c436692669629138265a5.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.78125,
+            "y_min": 0.520703125,
+            "x_max": 0.98125,
+            "y_max": 0.604296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7862210408970713,
+            "y_min": 0.5585651933401823,
+            "x_max": 0.8368258341029287,
+            "y_max": 0.6152629316598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyvn3lwprq0721btsf3icr_jpeg_jpg.rf.f297eb6384c129fdb543ccd7b9ff27fa.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4265625,
+            "y_min": 0.525390625,
+            "x_max": 0.815625,
+            "y_max": 0.6605468750000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7362443073838949,
+            "y_min": 0.6067507439479232,
+            "x_max": 0.8301619426161051,
+            "y_max": 0.6764523810520768,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0u0p0aix0240721eyb5n57o_jpeg_jpg.rf.8638470b64fbf3ba88b78e3be4766faf.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2484375,
+            "y_min": 0.33984375,
+            "x_max": 0.64375,
+            "y_max": 0.65859375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4887979808449745,
+            "y_min": 0.5114483940601349,
+            "x_max": 0.6342488941550255,
+            "y_max": 0.6506609809398651,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qc86fnk6ox0721cb5kg3tl_jpeg_jpg.rf.49689d7e42cfaf7f10e4b375edc7baa3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2859375,
+            "y_min": 0.504296875,
+            "x_max": 0.36562500000000003,
+            "y_max": 0.6066406249999999
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.2737080459669232,
+            "y_min": 0.5591885396465659,
+            "x_max": 0.3376200790330768,
+            "y_max": 0.6204989603534341,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l8culveaqb0721xkucococ_jpeg_jpg.rf.8fa2e9f64e2d3cd407abde2558fecc52.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2828125,
+            "y_min": 0.426953125,
+            "x_max": 0.3359375,
+            "y_max": 0.462109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.28990868154913185,
+            "y_min": 0.41388605955988167,
+            "x_max": 0.34290381845086815,
+            "y_max": 0.48259831544011833,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kfhu4n8q7f0701ixmonyig_jpeg_jpg.rf.a4498ca1da8d28f9a08ebdd6ea7b58ac.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.409375,
+            "y_min": 0.470703125,
+            "x_max": 0.7046874999999999,
+            "y_max": 0.649609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4004149767756462,
+            "y_min": 0.4621115881204605,
+            "x_max": 0.6523193982243538,
+            "y_max": 0.6531227868795395,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0uiwjhb843y0a46w2o985sl_jpeg_jpg.rf.9b2332385fb86b8f72fe21d5e958988a.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.4765625,
+            "y_min": 0.2875,
+            "x_max": 0.909375,
+            "y_max": 0.5375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.47140453338623045,
+            "y_min": 0.4528578999638557,
+            "x_max": 0.5891423416137695,
+            "y_max": 0.5471421000361443,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qb78lnsvjg0a46r1s6hxr1_jpeg_jpg.rf.c1578e921e6584457c5bdd7df9c18a06.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3203125,
+            "y_min": 0.339453125,
+            "x_max": 0.3984375,
+            "y_max": 0.491796875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.3228460769355297,
+            "y_min": 0.423286444991827,
+            "x_max": 0.4056695480644703,
+            "y_max": 0.506401055008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qdeht7feba0794xskx01vd_jpeg_jpg.rf.60315acea0678c82d12144a2af1e26fc.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.48437500000000006,
+            "y_min": 0.312109375,
+            "x_max": 0.8343750000000001,
+            "y_max": 0.526953125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.4719587317854166,
+            "y_min": 0.46994475230574606,
+            "x_max": 0.5651506432145834,
+            "y_max": 0.5437271226942539,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0na7z5a7deh0721q2xhjvl6_jpeg_jpg.rf.99de34889b07202a3034f483d3665cde.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3390625,
+            "y_min": 0.418359375,
+            "x_max": 0.4640625,
+            "y_max": 0.495703125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.3253039899468422,
+            "y_min": 0.40603324353694914,
+            "x_max": 0.4852428850531578,
+            "y_max": 0.5041230064630509,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rql046icek0a462kapdu97_jpeg_jpg.rf.8a530c3bda652c3928db521fb8c27b35.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0031250000000000028,
+            "y_min": 0.533203125,
+            "x_max": 0.24062499999999998,
+            "y_max": 0.693359375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.12377468079328537,
+            "y_min": 0.6161271198838949,
+            "x_max": 0.26099094420671465,
+            "y_max": 0.7100447551161051,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujvlapv2j60838394p7rtf_jpeg_jpg.rf.5c07633471ff5b95ad46e96648ba7664.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.45781249999999996,
+            "y_min": 0.508203125,
+            "x_max": 0.8171875,
+            "y_max": 0.660546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6794465477764606,
+            "y_min": 0.5586589942872524,
+            "x_max": 0.8361784522235394,
+            "y_max": 0.6796222557127476,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyojsawouz0721wteyaxe4_jpeg_jpg.rf.6b4b5a54bc27fdf4548e1931e759c8b0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.28281249999999997,
+            "y_min": 0.423046875,
+            "x_max": 0.340625,
+            "y_max": 0.47695312500000003
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.27758463613688944,
+            "y_min": 0.4119030689075589,
+            "x_max": 0.34936848886311056,
+            "y_max": 0.4826281810924411,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0t2zw8elp2f0838ve84hm51_jpeg_jpg.rf.b04f0272151e8bc1d2ab105612d0ed18.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6875,
+            "y_min": 0.464453125,
+            "x_max": 0.909375,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6705023269355297,
+            "y_min": 0.4881066945567727,
+            "x_max": 0.7533257980644703,
+            "y_max": 0.5411901804432273,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0m1n0c1hbus0863ti6kd58t_jpeg_jpg.rf.2ea93447346d70c1fa86ad5125d91a62.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.0015625000000000083,
+            "y_min": 0.17109375,
+            "x_max": 0.2390625,
+            "y_max": 0.70234375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.12793749999999998,
+            "y_min": 0.5623125,
+            "x_max": 0.2408125,
+            "y_max": 0.692375,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kosu846k350794gya7bot0_jpeg_jpg.rf.e6f6c70dafbe7f566d71083acaab344f.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.771875,
+            "y_min": 0.408203125,
+            "x_max": 0.896875,
+            "y_max": 0.516796875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7617911505699158,
+            "y_min": 0.43140858367085455,
+            "x_max": 0.8729744744300842,
+            "y_max": 0.5392945413291454,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nd794g00mz078022z17djb_jpeg_jpg.rf.49af65c779fb475e565e8b46cfc48655.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1921875,
+            "y_min": 0.48320312499999996,
+            "x_max": 0.2921875,
+            "y_max": 0.662109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.19806471422314645,
+            "y_min": 0.5482488977909088,
+            "x_max": 0.3117009107768536,
+            "y_max": 0.6861261022090912,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tyk5ussex90863mbb4h9of_jpeg_jpg.rf.f236669f28d16ecb90737ad251f2017a.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.596875,
+            "y_min": 0.441796875,
+            "x_max": 0.9546874999999999,
+            "y_max": 0.594140625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8550105798244476,
+            "y_min": 0.5560003509931266,
+            "x_max": 0.9106144201755524,
+            "y_max": 0.6080621490068734,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l9j6n6oqjo0848ps5blk3b_jpeg_jpg.rf.c083c079f1d892fd56fdfe29981092a4.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.196875,
+            "y_min": 0.3125,
+            "x_max": 0.38125,
+            "y_max": 0.65
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.1803612369298935,
+            "y_min": 0.49147424429655073,
+            "x_max": 0.3118262630701065,
+            "y_max": 0.6784476307034493,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0tt2r6arrbl0863z4d7kz9g_jpeg_jpg.rf.99b9694331e5736b9665e30ed25a731b.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7765625,
+            "y_min": 0.476953125,
+            "x_max": 0.8390625,
+            "y_max": 0.523046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7648914172500372,
+            "y_min": 0.46769394028931854,
+            "x_max": 0.8522960827499628,
+            "y_max": 0.5362123097106815,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0km26n78w6b0944d8vapoyy_jpeg_jpg.rf.7e09e345d6ed30531955acd8e9ec347a.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.6703125000000001,
+            "y_min": 0.475,
+            "x_max": 0.9453125,
+            "y_max": 0.6
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.8632971351221204,
+            "y_min": 0.5585651933401823,
+            "x_max": 0.9140466148778796,
+            "y_max": 0.6152629316598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l95c8fegck072116xdbwp6_jpeg_jpg.rf.cd8c0f6878e6ed5a747a6f98bec6bcfe.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.78125,
+            "y_min": 0.51875,
+            "x_max": 0.9921875,
+            "y_max": 0.60625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7671820144355297,
+            "y_min": 0.542427069991827,
+            "x_max": 0.8500054855644703,
+            "y_max": 0.625541680008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kkta309jh807010cayyl5d_jpeg_jpg.rf.0dc44812b43ef4986f0fd6baed426641.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.703125,
+            "y_min": 0.48359375000000004,
+            "x_max": 0.8625,
+            "y_max": 0.52734375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0tszlepw02k0721zr71djfj_jpeg_jpg.rf.a8d176478850e045762f45d527e5ea39.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7781250000000001,
+            "y_min": 0.516796875,
+            "x_max": 0.99375,
+            "y_max": 0.608203125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7804019102081656,
+            "y_min": 0.5532950326055288,
+            "x_max": 0.8328793397918344,
+            "y_max": 0.6244393423944712,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0nfsgb3a5cl0721k678jfzb_jpeg_jpg.rf.cde04dd578cf0c03b3620ce9e80208b3.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.171875,
+            "y_min": 0.43359375000000006,
+            "x_max": 0.2890625,
+            "y_max": 0.6898437500000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.17758814945816995,
+            "y_min": 0.5517638023197651,
+            "x_max": 0.3399899755418301,
+            "y_max": 0.6826111976802349,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0rqzwam6rx20944o5eby5wd_jpeg_jpg.rf.1c3349e2c728ddd324e77cd2114fc2d0.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.1921875,
+            "y_min": 0.47070312500000006,
+            "x_max": 0.2734375,
+            "y_max": 0.5980468750000001
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": []
+      }
+    ]
+  },
+  "ck0kmftzekfwv0a46aj0nh5dz_jpeg_jpg.rf.6871bae1638580512b79ac5e74b4e3f4.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.784375,
+            "y_min": 0.533203125,
+            "x_max": 0.95625,
+            "y_max": 0.610546875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.7773497398197651,
+            "y_min": 0.544380194991827,
+            "x_max": 0.9081971351802349,
+            "y_max": 0.627494805008173,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0kn966blrt008482afk6mhy_jpeg_jpg.rf.df96dc9ac2512cee5272da0b90a6faea.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.2625,
+            "y_min": 0.5144531250000001,
+            "x_max": 0.5765625000000001,
+            "y_max": 0.598046875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.240277409106493,
+            "y_min": 0.5375183136388659,
+            "x_max": 0.355425715893507,
+            "y_max": 0.6031066863611341,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0l8drn7ahtr08388pnkoq7o_jpeg_jpg.rf.9b3ccd10b9378c77be558d1481828b37.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.7828124999999999,
+            "y_min": 0.551953125,
+            "x_max": 0.8671875,
+            "y_max": 0.604296875
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.573856339937076,
+            "y_min": 0.610897667620331,
+            "x_max": 0.596065535062924,
+            "y_max": 0.637149207379669,
+            "conf": -1.0,
+            "level": "medium"
+          },
+          {
+            "x_min": 0.5585503083728254,
+            "y_min": 0.609921105120331,
+            "x_max": 0.5801215666271746,
+            "y_max": 0.636172644879669,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujedh4wiln0701x3dugshl_jpeg_jpg.rf.60ae1a85c2dac0a146cb5a1be14108df.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.3703125,
+            "y_min": 0.41484374999999996,
+            "x_max": 0.48125,
+            "y_max": 0.49609375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.36010280579328535,
+            "y_min": 0.41323804065585135,
+            "x_max": 0.49731906920671465,
+            "y_max": 0.5086369593441487,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0khrg9xan7u0721mn5rxpzo_jpeg_jpg.rf.ddd1bf062ac1e032ae3cae8cff7ec7fe.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.33125,
+            "y_min": 0.36015624999999996,
+            "x_max": 0.39687500000000003,
+            "y_max": 0.49765625
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.226375,
+            "y_min": 0.0,
+            "x_max": 0.279875,
+            "y_max": 0.0220625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.1795,
+            "y_min": 0.0,
+            "x_max": 0.22675,
+            "y_max": 0.0220625,
+            "conf": -1.0,
+            "level": "low"
+          },
+          {
+            "x_min": 0.33139189463853835,
+            "y_min": 0.432356757491827,
+            "x_max": 0.39321748036146165,
+            "y_max": 0.491471367508173,
+            "conf": -1.0,
+            "level": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0ujxwiv8tpa0848i4mm92da_jpeg_jpg.rf.713868195cabd6d6eb1e1d2cf438234c.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.5953125,
+            "y_min": 0.43984375,
+            "x_max": 0.75625,
+            "y_max": 0.52109375
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.6065164613723755,
+            "y_min": 0.4413224323838949,
+            "x_max": 0.7196554136276245,
+            "y_max": 0.5352400676161051,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "ck0qc6vn5htmh07016mtpli3w_jpeg_jpg.rf.667a5449abb623e94bdfc27a2d676719.jpg": {
+    "raw_data": [
+      {
+        "class": "smoke",
+        "boxes": [
+          {
+            "x_min": 0.259375,
+            "y_min": 0.5,
+            "x_max": 0.6625,
+            "y_max": 0.6125
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "wildfire",
+      "EO"
+    ],
+    "predictions": [
+      {
+        "class": "Fire",
+        "boxes": [
+          {
+            "x_min": 0.24119129173457624,
+            "y_min": 0.5354580269381404,
+            "x_max": 0.3193555832654238,
+            "y_max": 0.6032138480618596,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  }
+}

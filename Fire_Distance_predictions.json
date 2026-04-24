@@ -1,0 +1,893 @@
+{
+  "overlay_0.0300.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5551562499999999,
+            "y_min": 0.31522518518518516,
+            "x_max": 0.5848437499999999,
+            "y_max": 0.3448548148148148
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5328929410502314,
+            "y_min": 0.2988531557098031,
+            "x_max": 0.5979664339497686,
+            "y_max": 0.3632562192901969,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0290.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5556770833333332,
+            "y_min": 0.31568814814814816,
+            "x_max": 0.5843229166666666,
+            "y_max": 0.34439185185185184
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5348460660502314,
+            "y_min": 0.2988531557098031,
+            "x_max": 0.5999195589497686,
+            "y_max": 0.3632562192901969,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0280.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5561979166666666,
+            "y_min": 0.3161511111111111,
+            "x_max": 0.5838020833333333,
+            "y_max": 0.3439288888888889
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5328929410502314,
+            "y_min": 0.30003231439739464,
+            "x_max": 0.5979664339497686,
+            "y_max": 0.36207706060260536,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0270.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5567187499999999,
+            "y_min": 0.31661407407407405,
+            "x_max": 0.58328125,
+            "y_max": 0.3434659259259259
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5344817456975579,
+            "y_min": 0.30003231439739464,
+            "x_max": 0.5963776293024421,
+            "y_max": 0.36207706060260536,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0260.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5572395833333332,
+            "y_min": 0.31707703703703705,
+            "x_max": 0.5827604166666666,
+            "y_max": 0.34300296296296295
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5364348706975579,
+            "y_min": 0.30003231439739464,
+            "x_max": 0.5983307543024421,
+            "y_max": 0.36207706060260536,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0250.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5574999999999999,
+            "y_min": 0.31754,
+            "x_max": 0.5824999999999999,
+            "y_max": 0.34254
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5364348706975579,
+            "y_min": 0.30003231439739464,
+            "x_max": 0.5983307543024421,
+            "y_max": 0.36207706060260536,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0240.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5580208333333333,
+            "y_min": 0.31846592592592593,
+            "x_max": 0.5819791666666666,
+            "y_max": 0.34161407407407407
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5364348706975579,
+            "y_min": 0.2998474021628499,
+            "x_max": 0.5983307543024421,
+            "y_max": 0.3603088478371501,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0230.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5585416666666666,
+            "y_min": 0.3189288888888889,
+            "x_max": 0.5814583333333333,
+            "y_max": 0.3411511111111111
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5364348706975579,
+            "y_min": 0.3008239646628499,
+            "x_max": 0.5983307543024421,
+            "y_max": 0.3612854103371501,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0220.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5590624999999999,
+            "y_min": 0.3193918518518518,
+            "x_max": 0.5809374999999999,
+            "y_max": 0.34068814814814813
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5364348706975579,
+            "y_min": 0.3013828485459089,
+            "x_max": 0.5983307543024421,
+            "y_max": 0.3587734014540911,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0210.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5595833333333332,
+            "y_min": 0.3198548148148148,
+            "x_max": 0.5804166666666666,
+            "y_max": 0.3402251851851852
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5395808923244476,
+            "y_min": 0.3013828485459089,
+            "x_max": 0.5951847326755524,
+            "y_max": 0.3587734014540911,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0200.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5601041666666666,
+            "y_min": 0.32031777777777776,
+            "x_max": 0.5798958333333333,
+            "y_max": 0.3397622222222222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5376277673244476,
+            "y_min": 0.3017292558401823,
+            "x_max": 0.5932316076755524,
+            "y_max": 0.3584269941598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0190.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5606249999999999,
+            "y_min": 0.32078074074074076,
+            "x_max": 0.579375,
+            "y_max": 0.33929925925925924
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5395808923244476,
+            "y_min": 0.3013828485459089,
+            "x_max": 0.5951847326755524,
+            "y_max": 0.3587734014540911,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0180.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5611458333333332,
+            "y_min": 0.3212437037037037,
+            "x_max": 0.5788541666666666,
+            "y_max": 0.3388362962962963
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5376277673244476,
+            "y_min": 0.301897248737514,
+            "x_max": 0.5932316076755524,
+            "y_max": 0.358259001262486,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0170.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5616666666666666,
+            "y_min": 0.32170666666666664,
+            "x_max": 0.5783333333333333,
+            "y_max": 0.3383733333333333
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5376277673244476,
+            "y_min": 0.3017292558401823,
+            "x_max": 0.5932316076755524,
+            "y_max": 0.3584269941598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0160.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5621875,
+            "y_min": 0.32216962962962964,
+            "x_max": 0.5778125,
+            "y_max": 0.33791037037037036
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5395808923244476,
+            "y_min": 0.3007526933401823,
+            "x_max": 0.5951847326755524,
+            "y_max": 0.3574504316598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0150.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5627083333333333,
+            "y_min": 0.3226325925925926,
+            "x_max": 0.5772916666666666,
+            "y_max": 0.3374474074074074
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5376277673244476,
+            "y_min": 0.3017292558401823,
+            "x_max": 0.5932316076755524,
+            "y_max": 0.3584269941598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0140.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5632291666666666,
+            "y_min": 0.3230955555555555,
+            "x_max": 0.5767708333333332,
+            "y_max": 0.3369844444444444
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5376277673244476,
+            "y_min": 0.3007526933401823,
+            "x_max": 0.5932316076755524,
+            "y_max": 0.3574504316598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0130.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.56375,
+            "y_min": 0.3235585185185185,
+            "x_max": 0.5762499999999999,
+            "y_max": 0.3365214814814815
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5376277673244476,
+            "y_min": 0.3007526933401823,
+            "x_max": 0.5932316076755524,
+            "y_max": 0.3574504316598177,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0120.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5640104166666666,
+            "y_min": 0.3244844444444444,
+            "x_max": 0.5759895833333333,
+            "y_max": 0.33559555555555554
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": [
+          {
+            "x_min": 0.5395676647499204,
+            "y_min": 0.30397579262033103,
+            "x_max": 0.5873854602500796,
+            "y_max": 0.35422733237966897,
+            "conf": -1.0,
+            "level": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "overlay_0.0110.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5645312499999999,
+            "y_min": 0.3249474074074074,
+            "x_max": 0.57546875,
+            "y_max": 0.3351325925925926
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0100.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5650520833333332,
+            "y_min": 0.32541037037037035,
+            "x_max": 0.5749479166666666,
+            "y_max": 0.3346696296296296
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0090.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5655729166666666,
+            "y_min": 0.32587333333333335,
+            "x_max": 0.5744270833333333,
+            "y_max": 0.33420666666666665
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0080.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.56609375,
+            "y_min": 0.3263362962962963,
+            "x_max": 0.57390625,
+            "y_max": 0.3337437037037037
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0070.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5666145833333333,
+            "y_min": 0.32679925925925923,
+            "x_max": 0.5733854166666666,
+            "y_max": 0.3332807407407407
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0060.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5671354166666666,
+            "y_min": 0.32726222222222223,
+            "x_max": 0.5728645833333332,
+            "y_max": 0.33281777777777777
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0050.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.56765625,
+            "y_min": 0.3277251851851852,
+            "x_max": 0.5723437499999999,
+            "y_max": 0.3323548148148148
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0040.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5681770833333333,
+            "y_min": 0.3281881481481481,
+            "x_max": 0.5718229166666666,
+            "y_max": 0.3318918518518518
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0030.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5686979166666666,
+            "y_min": 0.3286511111111111,
+            "x_max": 0.5713020833333332,
+            "y_max": 0.3314288888888889
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0020.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5692187499999999,
+            "y_min": 0.32911407407407406,
+            "x_max": 0.5707812499999999,
+            "y_max": 0.33096592592592594
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  },
+  "overlay_0.0010.jpg": {
+    "raw_data": [
+      {
+        "class": "object",
+        "boxes": [
+          {
+            "x_min": 0.5697395833333333,
+            "y_min": 0.329577037037037,
+            "x_max": 0.5702604166666666,
+            "y_max": 0.33050296296296294
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "synthetic"
+    ],
+    "predictions": [
+      {
+        "class": "Fire or flame",
+        "boxes": []
+      }
+    ]
+  }
+}
