@@ -17,6 +17,7 @@
 
 - **1-inch fire** at 80° FOV: detectable up to **4 ft**
 - **15 ft fire** at 80° FOV: detectable up to **804 ft**
+- **15 ft fire** at 20° FOV: detectable up to **3,828 ft (0.725 miles)**
 
 ---
 
