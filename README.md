@@ -53,7 +53,7 @@ at that level and above:
 | All                  | `highest`, `high`, `medium`, `low` |
 
 A ground-truth box is considered **matched** (TP) if any predicted box in the same  
-image has IOU ≥ 0.0001 with it (effectively any bounding-box overlap),  
+image has IOU ≥ 0.05 with it (effectively any bounding-box overlap),  
 regardless of class label (since terms vary per dataset). A single predicted box may  
 overlap multiple GT boxes, and each overlapping GT box is counted as a separate TP.  
 DA and FNR are computed from normal images only; blackout images do not contribute  
